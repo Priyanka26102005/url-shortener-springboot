@@ -1,0 +1,7 @@
+com\urlshortener\UrlShortenerApplication.class
+com\urlshortener\repository\UrlRepository.class
+com\urlshortener\controller\UrlApiController.class
+com\urlshortener\controller\RedirectController.class
+com\urlshortener\model\Url.class
+com\urlshortener\service\UrlService.class
+com\urlshortener\service\UrlServiceImpl.class

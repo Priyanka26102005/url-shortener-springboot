@@ -74,3 +74,11 @@ The `urls` table contains:
 - `short_code` (Varchar 10, Unique)
 - `click_count` (Integer)
 - `created_at` (Timestamp)
+
+# Screenshots
+
+## Homepage
+![Homepage](screenshots/homepage.png)
+
+## Result
+![Result](screenshots/result.png)

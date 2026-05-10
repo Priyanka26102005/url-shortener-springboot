@@ -48,7 +48,7 @@ This application follows a standard Layered Architecture:
    By default, it uses:
    - Database: `url_shortener` (will be auto-created if not exists)
    - Username: `root`
-   - Password: `Priya@05`
+   - Password: `YOUR_PASSWORD`
 
    *(You can change these in `src/main/resources/application.properties`)*
 
